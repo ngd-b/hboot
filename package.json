@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "vuepress": "^1.0.3"
+  },
+  "name": "hboot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev":"vuepress dev docs",
+    "docs:build":"vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngd-b/hboot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngd-b/hboot/issues"
+  },
+  "homepage": "https://github.com/ngd-b/hboot#readme",
+  "description": ""
+}
