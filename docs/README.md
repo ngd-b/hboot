@@ -5,7 +5,6 @@ actionText: Get Started →
 actionLink: /guide/
 sidebarDepth: 2
 sidebar: auto
-prev: ./about
 next: false
 features:
 - title: Simplicity First
