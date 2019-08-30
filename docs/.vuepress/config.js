@@ -36,7 +36,7 @@ module.exports = {
         ],
         nav:[
             {text:"Home",link:'/'},
-            {text:"Guide",link:"/guide/"},
+            {text:"CSDN",link:"https://blog.csdn.net/heroboyluck"},
             {
                 text:"Languages",
                 items:[
