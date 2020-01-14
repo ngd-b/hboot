@@ -1,9 +1,9 @@
 
-export default({
-    Vue,
-    options,
-    route,
-    siteData
-}=>{
-    // ...
-})
+// export default({
+//     Vue,
+//     options,
+//     route,
+//     siteData
+// }=>{
+//     // ...
+// })
