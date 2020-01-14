@@ -29,7 +29,8 @@ module.exports = {
                 collapsable:false,
                 children:[
                     ['js/',"JS学习路线"],
-                    ['js/js-native/JS 阻止事件冒泡','JS 阻止事件冒泡']
+                    ['js/js-native/JS 阻止事件冒泡','JS 阻止事件冒泡'],
+                    ['js/Vue/实现事件绑定监听（观察者模式）','实现事件绑定监听（观察者模式）']
                 ]
             },
             {
