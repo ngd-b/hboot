@@ -62,8 +62,12 @@ let myEvent = new event();
 myEvent.$on('hello',function(){
     console.log('hello wolrd',[...arguments]);
 });
+function print(){
+    console.log("Vue");
+}
+myEvent.$on('hello',print);
 myEvent.$emit('hello',"first data","second data");
-myEvent.$off('hello');
+myEvent.$off('hello',print);
 myEvent.$emit('hello',"third data");
 // once
 myEvent.$once("world",function(){
